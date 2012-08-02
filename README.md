@@ -6,6 +6,8 @@ Bootstrap provides simple and flexible HTML, CSS, and Javascript for popular use
 To get started, checkout http://twitter.github.com/bootstrap!
 
 
+FAT IS COOL.
+
 
 Quick start
 -----------
